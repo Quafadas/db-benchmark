@@ -36,3 +36,8 @@ workdir/
 timeout-exit-codes.out
 */target
 *.lock
+scala/.bsp
+scala/.scala-build
+.bsp
+.metals
+.scala-build

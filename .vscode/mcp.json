@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "db-benchmark-metals": {
+      "url": "http://localhost:51150/sse",
+      "type": "sse"
+    }
+  }
+}
